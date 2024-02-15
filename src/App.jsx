@@ -1,7 +1,7 @@
 //import logo from './logo.svg';
 import './App.css';
 
-export default function Square() {
+export default function Board() {
   return(
       <>
           <div className="board-row">
